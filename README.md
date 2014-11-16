@@ -1,4 +1,5 @@
-Project3rdsem
+3rd sem OOP's Project
 =============
 
-OOP's project
+A OOP's Project to simulate the working of a Canteen.
+(aka Canteen Management System)
