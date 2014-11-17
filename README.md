@@ -1,5 +1,5 @@
 3rd sem OOP's Project
 =============
 
-A OOP's Project to simulate the working of a Canteen.
-(aka Canteen Management System)
+A OOP's Project to encript a text file.
+(aka Basic Cryptography)
